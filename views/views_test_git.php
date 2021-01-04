@@ -5,4 +5,4 @@ ligne pour test du deuxième commit
 
 
 
-modification pour test de commit et de merge
+modification pour test de commit et de merge si possible, sans bug
